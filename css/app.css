@@ -40,6 +40,7 @@ input[type=text], input[type=password] {
     display: inline-block;
     border: 1px solid #ccc;
     box-sizing: border-box;
+    float: right;
 }
 
 /* Set a style for all buttons */
@@ -91,6 +92,7 @@ input[type=text], input[type=password] {
     display: inline-block;
     border: 1px solid #ccc;
     box-sizing: border-box;
+    float: left;
 }
 
 /* Set a style for all buttons */
@@ -101,7 +103,7 @@ button {
     margin: 8px 0;
     border: none;
     cursor: pointer;
-    width: 100%;
+    width: 50%;
 }
 
 /* Extra styles for the cancel button */
