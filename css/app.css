@@ -31,6 +31,7 @@
 form {
     border: 3px solid #f1f1f1;
     float: left;
+    align-items: center;
 }
 
 /* Full-width inputs */
@@ -52,6 +53,7 @@ button {
     border: none;
     cursor: pointer;
     width: 50%;
+    float:left;
 }
 
 /* Extra style for the cancel button (red) */
