@@ -30,7 +30,7 @@
 /* Bordered form */
 form {
     border: 3px solid #f1f1f1;
-    align-items: center;
+    float: left;
   }
 
 /* Full-width inputs */
@@ -73,6 +73,11 @@ span.psw {
     }
   }
 /**************************Recruiter login*************************/
+form {
+    border: 3px solid #f1f1f1;
+    float: right;
+  }
+
 /* Full-width input fields */
 input[type=text], input[type=password] {
     width: 50%;
