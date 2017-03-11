@@ -25,7 +25,7 @@
   text-align: center;
 }
 
-/**************************Recruiter-login*********************/
+/**************************Recruiter-sigin*********************/
 
 /* Bordered form */
 form {
@@ -66,6 +66,7 @@ button {
 /* Add padding to containers */
 .container {
     padding: 16px;
+    align-items: center;
 }
 
 /* The "Forgot password" text */
@@ -85,7 +86,7 @@ span.psw {
     }
 }
 
-/**************************Sign up Form*************************/
+/**************************Recruiter login*************************/
 /* Full-width input fields */
 input[type=text], input[type=password] {
     width: 50%;
@@ -122,6 +123,7 @@ button {
 /* Add padding to container elements */
 .container {
     padding: 16px;
+    align-items: center;
 }
 
 /* Clear floats */
