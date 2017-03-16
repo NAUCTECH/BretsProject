@@ -21,6 +21,18 @@
 .main{
   padding: 3em 0;
   background-color: white;
+  text-align: center;
+}
+
+#talent {
+  text-align: justify;
+}
+
+#process{
+  text-align: justify;
+}
+
+#goal{
   text-align: justify;
 }
 
