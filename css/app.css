@@ -22,7 +22,7 @@
   padding: 3em 0;
   background-color: white;
   text-align: center;
-  position: fixed;
+  position: relative;
   top: auto;
   bottom: auto;
   right: auto;
