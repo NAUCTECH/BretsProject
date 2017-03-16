@@ -61,11 +61,6 @@
 
 #goal{
   text-align: justify;
-  position: relative;
-  top: 10px;
-  bottom: 10px;
-  right: 20px;
-  left: 20px;
 }
 
 #goal-header{
