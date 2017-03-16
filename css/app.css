@@ -45,8 +45,7 @@
 #process-header{
   text-align: center;
   position: relative;
-  bottom: auto;
-  top: auto;
+  bottom: 25px;
 }
 
 #goal{
