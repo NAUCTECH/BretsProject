@@ -21,6 +21,26 @@
 .main{
   padding: 3em 0;
   background-color: white;
+
+}
+
+#talent {
+  text-align: justify;
+}
+
+#talent-header{
+  text-align: center;
+  position: relative;
+  top: auto;
+  bottom: auto;
+  right: auto;
+  left: auto;
+}
+#process{
+  text-align: justify;
+}
+
+#process-header{
   text-align: center;
   position: relative;
   top: auto;
@@ -29,17 +49,20 @@
   left: auto;
 }
 
-#talent {
-  text-align: justify;
-}
-
-#process{
-  text-align: justify;
-}
-
 #goal{
   text-align: justify;
 }
+
+#goal-header{
+  text-align: center;
+  position: relative;
+  top: auto;
+  bottom: auto;
+  right: auto;
+  left: auto;
+}
+
+
 
 /*************************** Footer ****************************/
 .footer{
