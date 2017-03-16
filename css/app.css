@@ -26,15 +26,17 @@
 
 #talent {
   text-align: justify;
+  background-color: #b3cccc;
 }
 
 #talent-header{
   text-align: center;
+  text
   position: relative;
-  top: auto;
-  bottom: auto;
-  right: auto;
-  left: auto;
+  top: 10px;
+  bottom: 10px;
+  right: 20px;
+  left: 20px;
 }
 #process{
   text-align: justify;
@@ -43,10 +45,10 @@
 #process-header{
   text-align: center;
   position: relative;
-  top: auto;
-  bottom: auto;
-  right: auto;
-  left: auto;
+  top: 10px;
+  bottom: 10px;
+  right: 20px;
+  left: 20px;
 }
 
 #goal{
@@ -56,7 +58,6 @@
 #goal-header{
   text-align: center;
   position: relative;
-  background-color: #a2c3c3;
   top: 10px;
   bottom: 10px;
   right: 20px;
