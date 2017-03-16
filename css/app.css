@@ -20,18 +20,17 @@
 /*************************** Main ******************************/
 .main{
   padding: 3em 0;
-  background-color: white;
+  background-color: #b3cccc;
 
 }
 
 #talent {
   text-align: justify;
-  background-color: #b3cccc;
+  background-color: #ffffff;
 }
 
 #talent-header{
   text-align: center;
-  text
   position: relative;
   top: 10px;
   bottom: 10px;
@@ -40,6 +39,7 @@
 }
 #process{
   text-align: justify;
+  background-color: #ffffff;
 }
 
 #process-header{
@@ -53,11 +53,12 @@
 
 #goal{
   text-align: justify;
+  background-color: #ffffff;
 }
 
 #goal-header{
   text-align: center;
-  position: relative;
+    position: relative;
   top: 10px;
   bottom: 10px;
   right: 20px;
