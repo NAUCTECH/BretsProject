@@ -21,12 +21,12 @@
 .main{
   padding: 3em 0;
   background-color: white;
-  text-align: center;
+  text-align: justify;
 }
 
 /*************************** Footer ****************************/
 .footer{
   padding: 3em 0;
-  background-color: grey;
+  background-color: white;
   text-align: center;
 }
