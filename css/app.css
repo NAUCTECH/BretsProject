@@ -56,10 +56,10 @@
 #goal-header{
   text-align: center;
   position: relative;
-  top: auto;
-  bottom: auto;
-  right: auto;
-  left: auto;
+  top: 20px;
+  bottom: 20px;
+  right: 20px;
+  left: 20px;
 }
 
 
