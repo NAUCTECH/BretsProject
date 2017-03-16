@@ -41,7 +41,7 @@
   text-align: justify;
   position: relative;
   bottom: 20px;
-  top: 5px;
+  top: 10px;
 }
 
 #process-header{
@@ -53,7 +53,7 @@
 
 #goal{
   text-align: justify;
-  position: relative; 
+  position: relative;
   bottom: 20px;
   top: 5px;
 }
