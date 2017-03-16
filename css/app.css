@@ -9,10 +9,10 @@
   font-size: 1.2em;
   background-color: white;
   color:rgb(50,50,50);
-}
 
-.menu {
-  color: white;
+  a{
+    color: white;
+  }
 }
 
 /******************************** Hero ***********************/
