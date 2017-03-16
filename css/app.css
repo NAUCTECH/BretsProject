@@ -26,19 +26,13 @@
 #talent{
   text-align: justify;
   position: relative;
-  top: 10px;
-  bottom: 10px;
-  right: 20px;
-  left: 20px;
+  bottom: 30px;
 }
 
 #talent-header{
   text-align: center;
   position: relative;
-  top: 20px;
-  bottom: 20px;
-  right: 20px;
-  left: 20px;
+  bottom: 30px;
 }
 
 #process{
