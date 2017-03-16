@@ -39,13 +39,16 @@
 
 #process{
   text-align: justify;
+  position: relative;
+  bottom: 20px;
+  top: 5px;
 
 }
 
 #process-header{
   text-align: center;
   position: relative;
-  bottom: 25px;
+  bottom: 30px;
 }
 
 #goal{
