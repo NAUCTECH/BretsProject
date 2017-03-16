@@ -20,13 +20,16 @@
 /*************************** Main ******************************/
 .main{
   padding: 3em 0;
-  background-color: #b3cccc;
-
+  background-color: #ffffff;
 }
 
-#talent {
+#talent{
   text-align: justify;
-  background-color: #ffffff;
+  position: relative;
+  top: 10px;
+  bottom: 10px;
+  right: 20px;
+  left: 20px;
 }
 
 #talent-header{
@@ -37,9 +40,14 @@
   right: 20px;
   left: 20px;
 }
+
 #process{
   text-align: justify;
-  background-color: #ffffff;
+  position: relative;
+  top: 10px;
+  bottom: 10px;
+  right: 20px;
+  left: 20px;
 }
 
 #process-header{
@@ -53,19 +61,21 @@
 
 #goal{
   text-align: justify;
-  background-color: #ffffff;
-}
-
-#goal-header{
-  text-align: center;
-    position: relative;
+  position: relative;
   top: 10px;
   bottom: 10px;
   right: 20px;
   left: 20px;
 }
 
-
+#goal-header{
+  text-align: center;
+  position: relative;
+  top: 10px;
+  bottom: 10px;
+  right: 20px;
+  left: 20px;
+}
 
 /*************************** Footer ****************************/
 .footer{
