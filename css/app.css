@@ -11,19 +11,19 @@
 }
 
 #DT{
-  color: #ffffff;
+  color: white;
 }
 
 #DT:hover{
-  color: #00e600;
+  color: green;
 }
 
 #RT{
-  color: #ffffff;
+  color: white;
 }
 
 #RT:hover{
-  color: #00e600;
+  color: green;
 }
 
 /******************************** Hero ***********************/
@@ -36,7 +36,7 @@
 /*************************** Main ******************************/
 .main{
   padding: 3em 0;
-  background-color: #ffffff;
+  background-color: white;
 }
 
 #talent{
@@ -90,6 +90,6 @@
 
 #PR{
   border-style: solid;
-  border-radius: 20px;
-  background-color: #00e600;
+  border-width: medium;
+  background-color: rgb(210,210,210);
 }
