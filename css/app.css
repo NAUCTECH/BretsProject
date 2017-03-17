@@ -11,9 +11,12 @@
 }
 
 #DT{
-  color: #00e600;
+  color: #ffffff;
 }
 
+#DT:hover{
+  color: #00e600;
+}
 /******************************** Hero ***********************/
 .hero{
   padding: 3em 0;
