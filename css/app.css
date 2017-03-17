@@ -17,6 +17,15 @@
 #DT:hover{
   color: #00e600;
 }
+
+#RT{
+  color: #ffffff;
+}
+
+#RT:hover{
+  color: #00e600;
+}
+
 /******************************** Hero ***********************/
 .hero{
   padding: 3em 0;
