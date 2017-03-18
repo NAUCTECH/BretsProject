@@ -92,6 +92,13 @@
   box-sizing: border-box;
 }
 
+/* Columns of equal width*/
+.columns{
+  float: left;
+  width: 33.3%;
+  padding: 8px;
+}
+
 /* Style the list */
 .price{
   list-style-type: none;
