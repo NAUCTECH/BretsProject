@@ -92,7 +92,7 @@
   border: medium solid;
   background-color: rgb(210,210,210);
   padding: 15px 15px 30px 30px;
-  margin: 5px 5px 5px 5px;
+  margin: 0px 5px 5px 5px;
 }
 
 #Monthly{
@@ -106,5 +106,5 @@
   border: medium solid;
   background-color: rgb(210,210,210);
   padding: 15px 15px 20px 25px;
-  margin: 5px 5px 5px 5px;
+  margin: 5px 5px 5px 0px;
 }
