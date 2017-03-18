@@ -81,13 +81,7 @@
   top: 20px;
 }
 
-/*************************** Footer ****************************/
-.footer{
-  padding: 3em 0;
-  background-color: white;
-  text-align: center;
-}
-
+/*************************** Pricing Table ****************************/
 *{
   box-sizing: border-box;
 }
@@ -137,11 +131,9 @@
   font-size: 20px;
 }
 
-#Monthly{
-  background-color: rgb(210,210,210);
-}
-
-#Corp{
-  border-left: medium solid;
-  background-color: rgb(210,210,210);
+/***** Footer ****/
+.footer{
+  padding: 3em 0;
+  background-color: white;
+  text-align: center;
 }
