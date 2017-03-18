@@ -88,9 +88,41 @@
   text-align: center;
 }
 
-#PR{
-  border-right: medium solid;
-  background-color: rgb(210,210,210);
+*{
+  box-sizing: border-box;
+}
+
+/* Style the list */
+.price{
+  list-style-type: none;
+  border: 1px solid #eee;
+  margin: 0;
+  padding: 0;
+  -webkit-transitiion: 0.3s;
+  transition: 0.3s;
+}
+
+/* Adding Shadow */
+
+.price .header{
+  background-color: #111;
+  color: white;
+  font-size: 25px;
+}
+
+/* List items */
+
+.price li{
+  border-bottom: 1px solid #eee;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Grey list items*/
+
+.price .grey{
+  background-color: #eee;
+  font-size: 20px;
 }
 
 #Monthly{
