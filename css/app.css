@@ -93,7 +93,7 @@
 }
 
 /* Columns of equal width*/
-.columns{
+.small-4 columns{
   float: left;
   width: 33.3%;
   padding: 8px;
