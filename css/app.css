@@ -89,19 +89,11 @@
 }
 
 #PR{
-  border: medium solid;
+  border-right: medium solid;
   background-color: rgb(210,210,210);
-  padding: 5px 5px 5px 5px;
-}
-
-#Monthly{
-  border: medium solid;
-  background-color: rgb(210,210,210);
-  padding: 5px 5px 5px 5px;
 }
 
 #Corp{
-  border: medium solid;
+  border-left: medium solid;
   background-color: rgb(210,210,210);
-  padding: 5px 5px 5px 5px;
 }
