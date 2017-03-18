@@ -103,7 +103,8 @@
 }
 
 #Corp{
-  border-style: solid;
-  border-width: medium;
+  border: medium solid;
   background-color: rgb(210,210,210);
+  padding: 15px 15px 30px 30px;
+  margin: 5px 5px 5px 5px;
 }
