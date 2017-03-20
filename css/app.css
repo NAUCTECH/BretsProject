@@ -26,6 +26,10 @@
   color: green;
 }
 
+.Navbar-tagline{
+  font-size: small;
+}
+
 /******************************** Hero ***********************/
 .hero{
   padding: 3em 0;
