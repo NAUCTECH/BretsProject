@@ -7,7 +7,7 @@
 
 .title-bar{
   font-size: 1.2em;
-  color: #00cc00;
+  color: #66ff33;
 }
 
 #DT{
@@ -15,7 +15,7 @@
 }
 
 #DT:hover{
-  color: #00cc00;
+  color: #66ff33;
 }
 
 #RT{
@@ -23,7 +23,7 @@
 }
 
 #RT:hover{
-  color: #00cc00;
+  color: #66ff33;
 }
 
 #Navbar-tagline{
@@ -31,11 +31,11 @@
 }
 
 .fi-list{
-  color: #00cc00;
+  color: #66ff33;
 }
 
-.menu-tex{
-  color: #00cc00;
+.menu-text{
+  color: #66ff33;
 }
 
 /******************************** Hero ***********************/
