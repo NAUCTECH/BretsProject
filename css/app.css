@@ -30,6 +30,14 @@
   font-size: 10px;
 }
 
+.fi-list{
+  color: #00cc00;
+}
+
+.menu-tex{
+  color: #00cc00;
+}
+
 /******************************** Hero ***********************/
 .hero{
   padding: 3em 0;
