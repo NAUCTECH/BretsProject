@@ -7,7 +7,7 @@
 
 .title-bar{
   font-size: 1.2em;
-  color: white;
+  color: #00cc00;
 }
 
 #DT{
@@ -15,7 +15,7 @@
 }
 
 #DT:hover{
-  color: green;
+  color: #00cc00;
 }
 
 #RT{
@@ -23,7 +23,7 @@
 }
 
 #RT:hover{
-  color: green;
+  color: #00cc00;
 }
 
 #Navbar-tagline{
