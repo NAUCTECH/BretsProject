@@ -28,13 +28,17 @@
 
 #navbar-tag{
   color: white;
-  font-size: 12px;
+  font-size: 15px;
 }
 #navbar-tag:hover{
   color: #66ff33;
 }
 
 .title-bar-title{
+  color: #66ff33;
+}
+
+#home{
   color: #66ff33;
 }
 
@@ -132,20 +136,49 @@
 }
 
 /* Add shadows on hover */
-.price:hover {
+.price:hover{
     box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
 }
 
 /* Grey list items*/
-
 .price .grey{
   background-color: #eee;
   font-size: 20px;
 }
 
-/***** Footer ****/
+/****************    Footer   **************/
 .footer{
   padding: 3em 0;
   background-color: white;
   text-align: center;
+}
+
+#footer{
+  text-align: center;
+}
+
+/****************** Main RL ***************/
+.main-RL{
+  padding: 3em 0;
+  background-color: white;
+  text-align: inherit;
+}
+
+.row-earning{
+  text-align: center;
+  background-color: rgb(210,210,210);
+}
+
+.wrap-RL{
+  width:90%;
+  margin: auto;
+  max-width: 1100px,
+}
+
+/********* Recruiter Sign up Form *********/
+.row-SP-Form{
+  width:90%;
+  margin: auto;
+  max-width: 1100px,
+  text-align:center;
 }
